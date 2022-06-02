@@ -1,0 +1,140 @@
+body{
+    font-family: sans-serif;
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    font-size: 25px;
+}
+
+.head{
+    height: 300px;
+    margin: 0px;
+    weight: 1000px;
+    background-color:antiquewhite;
+    text-align: center;
+}
+
+h1{
+    margin: 0px;
+    padding-top: 100px;
+}
+
+.divMenu{
+    background-color: wheat;
+    height: 50px;
+
+}
+
+.menu{
+    list-style-type: none;
+    background-color: wheat;
+    background-size: cover;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+
+}
+
+li a{
+    text-decoration: none;
+    color: black;
+    display: block;
+    padding: 16px;
+}
+
+li{
+    padding-left: 200px;
+    float: left;
+}
+
+li a:link{
+    background-color: wheat;
+}
+
+li a:hover{
+    background-color: antiquewhite;
+}
+
+.tag{
+    margin-top: 100px;
+    text-align: center;
+}
+
+#product{
+    padding: 100px;
+    text-align: center;
+}
+
+.element{
+    float: left;
+    background-color: antiquewhite;
+    padding-left: 0px;
+    margin-left: 200px;
+    margin-top: 50px;
+    display:block;
+
+}
+
+.images{
+    padding: 0px;
+    margin: 0px;
+    height:400px;
+    width: 400px;
+}
+
+.link{
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    color: black;
+}
+
+.link:hover{
+    background-color: wheat;
+}
+
+#company{
+    padding: 20px;
+    float: left;
+}
+
+#imag{
+    padding-left: 150px;
+    padding-top: 100px;
+    height: 500px;
+}
+.text-2{
+    padding-left: 510px;
+    margin-top: -500px;
+    float: right;
+    font-size: 20px;
+}
+
+#reviews{
+}
+.otsuv{
+    float: left;
+    padding-left: 0px;
+    margin-left: 200px;
+    margin-top: 50px;
+    display:block;
+    text-align: left;
+
+}
+.reviewImages{
+    float: left;
+    padding: 0px;
+    margin: 0px;
+}
+
+.reviewText{
+    float: left;
+    width:500px;
+
+}
+
+
+.contactsText{
+    padding-left: 200px;
+
+}

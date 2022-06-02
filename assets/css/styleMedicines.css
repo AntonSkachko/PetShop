@@ -1,0 +1,53 @@
+body{
+    font-family: sans-serif;
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    font-size: 25px;
+}
+
+.head{
+    height: 300px;
+    margin: 0px;
+    weight: 1000px;
+    background-color:antiquewhite;
+    text-align: center;
+}
+
+h1{
+    margin: 0px;
+    padding-top: 100px;
+}
+
+#product{
+    padding: 100px;
+    text-align: center;
+}
+
+.element{
+    float: left;
+    background-color: antiquewhite;
+    padding-left: 0px;
+    margin-left: 200px;
+    margin-top: 50px;
+    display:block;
+
+}
+
+.images{
+    padding: 0px;
+    margin: 0px;
+    height:400px;
+    width: 400px;
+}
+
+.link{
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    color: black;
+}
+
+.link:hover{
+    background-color: wheat;
+}
